@@ -1,0 +1,31 @@
+package com.example.localdictationpro.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val PrimaryLight = Color(0xFF6200EE)
+val PrimaryVariantLight = Color(0xFF3700B3)
+val SecondaryLight = Color(0xFF03DAC6)
+val BackgroundLight = Color(0xFFFFFFFF)
+val SurfaceLight = Color(0xFFFCFCFC)
+val SurfaceVariantLight = Color(0xFFF0F0F0)
+val ErrorLight = Color(0xFFB00020)
+val OnPrimaryLight = Color(0xFFFFFFFF)
+val OnSecondaryLight = Color(0xFF000000)
+val OnBackgroundLight = Color(0xFF000000)
+val OnSurfaceLight = Color(0xFF212121)
+val OnSurfaceVariantLight = Color(0xFF424242)
+val OnErrorLight = Color(0xFFFFFFFF)
+
+val PrimaryDark = Color(0xFFBB86FC)
+val PrimaryVariantDark = Color(0xFF3700B3)
+val SecondaryDark = Color(0xFF03DAC6)
+val BackgroundDark = Color(0xFF121212)
+val SurfaceDark = Color(0xFF1E1E1E)
+val SurfaceVariantDark = Color(0xFF2C2C2C)
+val ErrorDark = Color(0xFFCF6679)
+val OnPrimaryDark = Color(0xFF000000)
+val OnSecondaryDark = Color(0xFF000000)
+val OnBackgroundDark = Color(0xFFFFFFFF)
+val OnSurfaceDark = Color(0xFFE0E0E0)
+val OnSurfaceVariantDark = Color(0xFFBDBDBD)
+val OnErrorDark = Color(0xFF000000)

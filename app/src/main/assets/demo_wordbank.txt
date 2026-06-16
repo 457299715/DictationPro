@@ -1,0 +1,7 @@
+[Unit 1]
+xujinyang: 神
+abandon: 放弃
+ability: 能力
+able: 有能力的
+about: 关于
+above: 在...上方
